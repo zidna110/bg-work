@@ -17,7 +17,7 @@ git add xxxx.text
 #8
 git commit -m "something u had change....."
 #end
-git push git@guthub.com:username/reponame.git
+git push git@github.com:username/reponame.git
 
 
 thanks.
