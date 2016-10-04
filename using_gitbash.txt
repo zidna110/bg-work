@@ -1,0 +1,23 @@
+#1
+mkdir newxxx
+#2
+rclick>git bash here
+#3 
+open a new shell,now
+#4
+git init
+#5
+git remote add origin git@github.com:username/reponame
+#6
+git pull git@github.com:username/reponame
+#7
+xxxx.text in newxxx
+
+git add xxxx.text
+#8
+git commit -m "something u had change....."
+#end
+git push git@guthub.com:username/reponame.git
+
+
+thanks.
